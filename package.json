@@ -55,7 +55,7 @@
     "rxjs-compat": "^6.5.4",
     "tinymce": "4.5.7",
     "tslib": "^1.10.0",
-    "xlsx": "^0.15.4",
+    "xlsx": "^0.17.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
